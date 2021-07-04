@@ -1,0 +1,1 @@
+export const f2s_apiKey = "vqTxd0b76OzUjlJuMte5wnICc1hrNiVagmYZRAEBP9GWXyKSHQd1HoyurJO704fNzMS3qkivcxtbaKh2";
